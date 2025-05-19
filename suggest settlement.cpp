@@ -17,7 +17,7 @@ void suggestTransactions() {
             printf("%s is settled.\n", roommates[i].name);
     }
 }
-hehhee
+
 float calculateTotal(Roommate *list, int count) {
     float total = 0;
     for (int i = 0; i < count; i++)
