@@ -1,3 +1,5 @@
+hello world
+
 void clearScreen() { printf("\n\n"); }
 
 void pauseScreen() { printf("Press Enter..."); getchar(); getchar(); }
