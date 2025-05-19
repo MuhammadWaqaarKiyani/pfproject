@@ -1,3 +1,4 @@
+hum apke h kon?
 void summary() {
     for (int i = 0; i < roommateCount; i++) {
         float total = 0;
