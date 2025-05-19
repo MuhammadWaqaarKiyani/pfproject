@@ -1,4 +1,4 @@
-typedef struct hehe{
+typedef struct {
     float amount;
     char description[100];
 } Expense;
