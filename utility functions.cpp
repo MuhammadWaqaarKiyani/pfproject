@@ -1,5 +1,4 @@
-
-
+so much mushkil code
 void clearScreen() { printf("\n\n"); }
 
 void pauseScreen() { printf("Press Enter..."); getchar(); getchar(); }
