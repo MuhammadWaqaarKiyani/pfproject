@@ -11,7 +11,7 @@ int safeReadInt(const char* prompt) {
     }
     return val;
 }
-
+yeehhaaaaaaa
 void welcome() {
     printf("\n=== Roommate Expense Tracker ===\n\n");
 }
