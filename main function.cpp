@@ -5,4 +5,3 @@ int main() {
     mainMenu();
     return 0;
 }
-tooty hue dil jaaye kahan ??
