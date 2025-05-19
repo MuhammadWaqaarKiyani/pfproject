@@ -1,4 +1,4 @@
-
+silence please
 void inputRoommates() {
     roommateCount = safeReadInt("Number of roommates (max 10): ");
     if (roommateCount > MAX_ROOMMATES) roommateCount = MAX_ROOMMATES;
