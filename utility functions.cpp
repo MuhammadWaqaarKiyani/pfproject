@@ -1,4 +1,4 @@
-hello world
+
 
 void clearScreen() { printf("\n\n"); }
 
