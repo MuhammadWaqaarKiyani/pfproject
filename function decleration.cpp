@@ -8,7 +8,7 @@ int validateUser(const char*, const char*);
 void inputRoommates();
 void mainMenu();
 void addExpense();
-void viewExpenses();
+void viewExpenses sldjfladsfs();
 void viewRoommateExpenses();
 void summary();
 void suggestTransactions();
