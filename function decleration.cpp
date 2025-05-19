@@ -1,0 +1,16 @@
+void clearScreen();
+void pauseScreen();
+void welcome();
+void loginSystem();
+void registerUser();
+int login();
+int validateUser(const char*, const char*);
+void inputRoommates();
+void mainMenu();
+void addExpense();
+void viewExpenses();
+void viewRoommateExpenses();
+void summary();
+void suggestTransactions();
+float calculateTotal(Roommate*, int);
+int safeReadInt(const char*);
