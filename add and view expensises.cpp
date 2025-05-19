@@ -1,4 +1,5 @@
-void addExpense() {
+'
+    void addExpense() {
     char name[NAME_LEN];
     printf("Enter roommate name: "); scanf(" %[^\n]", name);
 
