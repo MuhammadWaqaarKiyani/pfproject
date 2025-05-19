@@ -1,4 +1,3 @@
-azbia
 
 void suggestTransactions() {
     float total = calculateTotal(roommates, roommateCount);
